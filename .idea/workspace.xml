@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4b99bb0-236d-4ef9-80d8-074fb6c326d9" name="Default Changelist" comment="">
+    <list default="true" id="e4b99bb0-236d-4ef9-80d8-074fb6c326d9" name="Default Changelist" comment="fouth commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dong/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dong/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,7 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dong/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="46" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
@@ -78,23 +79,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="works" type="b2602c69:ProjectViewProjectNode" />
-              <item name="works" type="462c0819:PsiDirectoryNode" />
+              <item name="rep_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rep_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="works" type="b2602c69:ProjectViewProjectNode" />
-              <item name="works" type="462c0819:PsiDirectoryNode" />
+              <item name="rep_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rep_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="works" type="b2602c69:ProjectViewProjectNode" />
-              <item name="works" type="462c0819:PsiDirectoryNode" />
+              <item name="rep_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rep_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dong" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -173,6 +174,8 @@
       <workItem from="1560159581327" duration="1425000" />
       <workItem from="1560213026240" duration="1116000" />
       <workItem from="1560214755471" duration="884000" />
+      <workItem from="1560217282837" duration="23000" />
+      <workItem from="1560217627771" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1560215707553</created>
@@ -185,7 +188,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9594000" />
+    <option name="totallyTimeSpent" value="9781000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,11 +200,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="33" y="31" width="1260" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="486" y="151" width="309" height="378" id="Project" order="0" visible="true" weight="0.23809524" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" x="486" y="151" width="309" height="378" id="Project" order="0" visible="true" weight="0.24916944" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24939467" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -215,11 +218,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.55202824" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.40429688" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.329806" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -246,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="fouth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fouth commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -261,16 +265,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dong/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dong/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dong/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
